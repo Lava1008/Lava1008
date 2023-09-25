@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lava1008
-- 👀 I’m interested in playing basketball as well as coding 
-- 🌱 I’m currently learning DSA, Web Dev as well as basketball 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in playing basketball. 
+- 🌱 I’m currently learning DSA, Web Dev 
+- 💞️ I’m looking for an startup opportunity .
 - 📫 How to reach me  Email:-lavanyagarg59617@gmail.com
 
 <!---
